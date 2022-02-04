@@ -1,2 +1,2 @@
-# Talleres_De_Algoritmos_Ricardo
+# Talleres De algoritmos y programacion 
 Talleres de Algoritmos y programacion

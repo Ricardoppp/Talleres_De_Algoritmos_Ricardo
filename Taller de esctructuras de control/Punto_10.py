@@ -23,7 +23,7 @@ v3=float(input("Cantidad pesetas para convertirlas en dolares y liras "))
 
 #Blackbox 
 x1=(v1*9568.71)
-x2=((v2*8860.7)/20110)
+x2=((v2*886.07)/20110)
 x3=(v3*0.00000816)
 x4=(v3/92.89)
 
